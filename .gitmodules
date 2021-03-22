@@ -1,0 +1,3 @@
+[submodule "analyze/afc"]
+	path = analyze/afc
+	url = https://github.com/shinolab/acoustic-field-calculator.git
